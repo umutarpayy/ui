@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: url(./alex-litvin.jpg);
+    background-size: cover;
+  }
+  html{
+    height: 100%;
+    background: none;
+    
+    
+  }
+  a{
+    text-decoration: none;
+    color: white;
+    background: none;
+  }
+  main {
+    font-family: "Heebo", sans-serif;
+    background: none;
+    
+  }
+  
+  .landing {
+    min-height: 100vh;
+    background-size: cover;
+    padding: 0rem 5rem;
+    background: none;
+    
+  }
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 10vh;
+    background: none;
+  }
+  .nav-links {
+    display: flex;
+    list-style: none;
+    background: none;
+  }
+  .nav-links li {
+    padding-left: 6rem;
+    font-size: 1.2rem;
+    background: none;
+  }
+  #logo {
+    font-family: "Lobster", cursive;
+    font-weight: lighter;
+    font-size: 2rem;
+    background: none;
+    
+  }
+  .footer-links li{
+    display: inline;
+    float: left;
+    text-align: center;
+    padding-left: 14em;
+    background: none;
+  }
+footer {
+  background: #333;
+  color: white;
+  padding: 3em;
+  margin-top: auto;
+  font-size: 1.2em;
+  background: none;
+ 
+}
+
